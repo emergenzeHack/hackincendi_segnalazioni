@@ -1,2 +1,4 @@
 # ignoro l'anagrafica
 anagrafica.txt
+# ignoro config github
+.github.cfg
